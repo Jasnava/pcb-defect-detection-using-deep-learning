@@ -12,22 +12,19 @@ Printed Circuit Boards are critical components in electronic devices.Multi-stage
 - Supports real-time defect detection.  
 
 ## Results  
-![Project Results]()  
+![Project Results](result.png)  
 
 
 ## Tools and Technologies  
 - **Deep Learning Framework**: YOLOv5  
 - **Programming Language**: Python  
 - **Libraries**: PyTorch, OpenCV, Matplotlib  
-- **Annotation Tool**: LabelImg  
 
 ## Project Workflow  
-1. Data Collection and Annotation  
+1. Data Collection 
 2. Model Training using YOLOv5  
 3. Model Evaluation and Optimization  
 4. Real-time Testing and Visualization  
 
-## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/PCB-Defect-Detection-YOLOv5.git
+## Data set
+
