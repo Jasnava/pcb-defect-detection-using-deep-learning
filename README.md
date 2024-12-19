@@ -27,4 +27,6 @@ Printed Circuit Boards are critical components in electronic devices.Multi-stage
 4. Real-time Testing and Visualization  
 
 ## Data set
-
+I utilized two datasets for this research. dataset link provided below
+https://www.kaggle.com/datasets/norbertelter/pcb-defect-dataset
+https://universe.roboflow.com/pcb-defect/scratch-2-zsdic/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
